@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world! This is a sample code for practicing concepts of git and github.");
         System.out.println("This line was added in the dev branch");
         System.out.println("This line was added in the subdev branch");
+        System.out.println("This line was added in the subdev2 branch");
     }
 }
