@@ -5,6 +5,8 @@ public class Main {
         System.out.println("This line was added in the subdev branch");
         System.out.println("This line was added in the subdev2 branch");
 
-        System.out.println("This line is being added in the master branch");
+
+        System.out.println("This line is being added in the dev branch");
+
     }
 }
