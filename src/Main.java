@@ -9,6 +9,7 @@ public class Main {
         System.out.println("This line is being added in the dev branch");
         System.out.println("This line is being added in the master branch");
         System.out.println("This line is being added in github editor");
+        System.out.println("This line is being added in the master branch");
 
     }
 }
